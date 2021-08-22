@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on a CMS using the MERN Stack. Exciting platform for African writers and content creators.
+🌱 I’m currently learning Ethereum and Blockchain. There seems to be some hidden gold in that. I want in.
+👯 I’m looking to collaborate on Full Stack Web Development. 
+
+Fun fact: The earth is always rotating and moving, I see no reason for me to stop learning and progressing.
+
+
+
 <!--
 **BMWire/BMWIre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
