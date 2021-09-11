@@ -4,6 +4,7 @@
 🌱 I’m currently learning Ethereum and Blockchain. There seems to be some hidden gold in that. I want in.
 👯 I’m looking to collaborate on Full Stack Web Development. 
 
+![Profile views](https://gpvc.arturio.dev/BMWire)
 Fun fact: The earth is always rotating and moving, I see no reason for me to stop learning and progressing.
 
 
