@@ -8,8 +8,7 @@ You can find me on: <p align="center"> <a href="https://twitter.com/BMwemaWire">
 ## &#x1f4c8; Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMWire&count_private=true&show_icons=true&theme=dracula" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=BMWire&count_private=true&show_icons=true&theme=dracula" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=BMWire&repo=Shishi-Mern&count_private=true&show_icons=true&theme=dracula" />
+
 
 I see no reason for me to stop learning and progressing.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BMWire&repo=github-jobs&show_owner=true&theme=blueberry)](https://github.com/BMWire/github-readme-stats)
