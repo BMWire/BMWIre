@@ -14,7 +14,7 @@ You can find me on [![Twitter][1.2]][1].
 <!-- Links to your social media accounts -->
 [1]: https://twitter.com/BMwemaWire
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=BMWire&count_private=true&show_icons=true&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMWire&count_private=true&show_icons=true&theme=dracula" />
 
 I see no reason for me to stop learning and progressing.
 <!-- 
